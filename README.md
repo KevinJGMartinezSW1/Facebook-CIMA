@@ -70,7 +70,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # INSTALACION DEL PROGRAMA
 
 ### Necesitas ir a la sesion de laravel y copiar el enlace de git clone que esta abajo.
-  *  git clone 
+  *  git clone: gh repo clone KevinJGMartinezSW1/Facebook-CIMA
 ### Entar en la terminal (cmd), y pon la carpeta donde esta situada los archivos.
   *  cd facebook-cima
 ### Después usar PHP artisan para que puedas migrar los datos de DB
