@@ -69,15 +69,15 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 # INSTALACION DEL PROGRAMA
 
-## Necesitas ir a la sesion de laravel y copiar el enlace de git clone que esta abajo.
+### Necesitas ir a la sesion de laravel y copiar el enlace de git clone que esta abajo.
   *  git clone 
-## Entar en la terminal (cmd), y pon la carpeta donde esta situada los archivos.
+### Entar en la terminal (cmd), y pon la carpeta donde esta situada los archivos.
   *  cd facebook-cima
-## Después usar PHP artisan para que puedas migrar los datos de DB
+### Después usar PHP artisan para que puedas migrar los datos de DB
   *  php artisan migrate --seed
-## Después lo instalas
+### Después lo instalas
   * npm install
 
-## Si requieres quitar el pilar del proyecto puedes hacer estos pasos y para que puedas ejectuarlo
+### Si requieres quitar el pilar del proyecto puedes hacer estos pasos y para que puedas ejectuarlo
   * php artisan serve
   * npm run watch
